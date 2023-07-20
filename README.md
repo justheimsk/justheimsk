@@ -43,5 +43,5 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=henriquemdimer&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
-[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=henriquemdimer&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=devdimer&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=devdimer&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
