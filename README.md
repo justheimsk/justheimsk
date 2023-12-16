@@ -4,8 +4,6 @@
 
 ➜ My name is Henrique and I'm 18 years old, I've been a full stack developer for 3 years
 
-➜ I'm attending the 3rd year of high school.
-
 ➜ I've done several projects as a developer, Discord Bots, Websites, Servers, Api's, and I've also done projects involved with robotics and CNC programming/machining.
 
 ## 💫 » **My skills**
