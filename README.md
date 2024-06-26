@@ -49,3 +49,4 @@
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=devdimer&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+![](https://komarev.com/ghpvc/?username=devdimer&style=for-the-badge)
