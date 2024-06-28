@@ -6,6 +6,11 @@
 
 ➜ I've done several projects as a developer, Discord Bots, Websites, Servers, Api's, and I've also done projects involved with robotics and CNC programming/machining.
 
+## 🗨️ » **Contact**
+<p align="center">
+<a href="https://discord.com/users/465599065007194113"><img src="https://discord.c99.nl/widget/theme-1/465599065007194113.png" /></a>
+</p>
+
 ## 💫 » **My skills**
 - Languages:
 
