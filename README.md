@@ -8,7 +8,9 @@
 
 ## 🗨️ » **Contact**
 <p align="center">
-<a href="https://discord.com/users/465599065007194113"><img src="https://discord.c99.nl/widget/theme-1/465599065007194113.png" /></a>
+  <a href="https://discord.com/users/465599065007194113" target="_blank">
+    <img src="https://discord.c99.nl/widget/theme-1/465599065007194113.png" />
+  </a>
 </p>
 
 ## 💫 » **My skills**
