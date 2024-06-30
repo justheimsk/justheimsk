@@ -15,8 +15,10 @@
 </p>
 
 ## ♥️ » **Some projects**
+<p align="center">
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=devdimer&repo=cordium.js)](https://github.com/devdimer/cordium.js)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=devdimer&repo=discord-clone)](https://github.com/devdimer/discord-clone)
+</p>
 
 ## 💫 » **My skills**
 - Languages:
