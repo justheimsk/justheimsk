@@ -16,8 +16,8 @@
 
 ## ♥️ » **Some projects**
 <p align="center">
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=devdimer&repo=cordium.js)](https://github.com/devdimer/cordium.js)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=devdimer&repo=discord-clone)](https://github.com/devdimer/discord-clone)
+  <a href="https://github.com/devdimer/cordium.js"><img src="https://github-readme-stats.vercel.app/api/pin/?username=devdimer&repo=cordium.js" /></a>
+  <a href="https://github.com/devdimer/discord-clone"><img src="https://github-readme-stats.vercel.app/api/pin/?username=devdimer&repo=discord-clone" /></a>
 </p>
 
 ## 💫 » **My skills**
