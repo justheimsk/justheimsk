@@ -1,7 +1,7 @@
 ## 👋 » Hi there
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Henrique+%F0%9F%91%8B;A+Full-Stack+developer." />
-</p>
+</p> 
 
 ➜ My name is Henrique and I'm 18 years old, I've been a full stack developer for 4 years
 
