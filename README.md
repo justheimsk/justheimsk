@@ -16,8 +16,8 @@
 
 ## ♥️ » **Some projects**
 <p align="center">
-  <a href="https://github.com/devdimer/cordium.js"><img src="https://github-readme-stats.vercel.app/api/pin/?username=devdimer&repo=cordium.js" /></a>
-  <a href="https://github.com/devdimer/discord-clone"><img src="https://github-readme-stats.vercel.app/api/pin/?username=devdimer&repo=discord-clone" /></a>
+  <a href="https://github.com/devdimer/cordium.js"><img src="https://github-readme-stats.vercel.app/api/pin/?username=justheimsk&repo=cordium.js" /></a>
+  <a href="https://github.com/justheimsk/discord-clone"><img src="https://github-readme-stats.vercel.app/api/pin/?username=justheimsk&repo=discord-clone" /></a>
 </p>
 
 ## 💫 » **My skills**
@@ -62,5 +62,10 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=devdimer&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
-![](https://komarev.com/ghpvc/?username=devdimer&style=for-the-badge)
+## Stats
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=justheimsk&style=for-the-badge" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=justheimsk&theme=blue-green" />
+</p>
